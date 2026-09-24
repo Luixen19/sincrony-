@@ -1,2 +1,3 @@
 print ("XDDD")
 print ("sonic es god")
+ahora no es print
